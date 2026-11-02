@@ -104,9 +104,17 @@ The phone rings at full volume for 30 seconds, even on silent, until you tap "Fo
 
 ## Screenshots
 
-Settings window on Linux, in the Russian interface; the app also speaks English.
+The app on Linux, in the Russian interface; it also speaks English.
 
 <details open>
+<summary><b>Phone window</b></summary>
+<br>
+
+<img src="assets/screenshots/linux-phone-window.webp" width="300" alt="A phone's screen in a SeamDroid window on Linux">
+
+</details>
+
+<details>
 <summary><b>Phones</b></summary>
 <br>
 

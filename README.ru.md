@@ -104,9 +104,17 @@ systemctl --user enable --now seamdroid
 
 ## Скриншоты
 
-Окно настроек на Linux.
+Приложение на Linux.
 
 <details open>
+<summary><b>Окно телефона</b></summary>
+<br>
+
+<img src="assets/screenshots/linux-phone-window.webp" width="300" alt="Экран телефона в окне SeamDroid на Linux">
+
+</details>
+
+<details>
 <summary><b>Телефоны</b></summary>
 <br>
 
