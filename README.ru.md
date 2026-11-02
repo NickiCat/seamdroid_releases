@@ -102,6 +102,58 @@ systemctl --user enable --now seamdroid
 
 </details>
 
+## Скриншоты
+
+Окно настроек на Linux.
+
+<details open>
+<summary><b>Телефоны</b></summary>
+<br>
+
+<img src="assets/screenshots/settings-phones.webp" width="640" alt="Настройки SeamDroid: список телефонов и полный режим">
+
+</details>
+
+<details>
+<summary><b>Уведомления</b></summary>
+<br>
+
+<img src="assets/screenshots/settings-notifications.webp" width="640" alt="Настройки SeamDroid: приложения, уведомления которых показываются на компьютере">
+
+</details>
+
+<details>
+<summary><b>Видео</b></summary>
+<br>
+
+<img src="assets/screenshots/settings-video.webp" width="640" alt="Настройки SeamDroid: размер, битрейт и частота кадров трансляции">
+
+</details>
+
+<details>
+<summary><b>Звонки</b></summary>
+<br>
+
+<img src="assets/screenshots/settings-calls.webp" width="640" alt="Настройки SeamDroid: подключение телефона по Bluetooth для звонков">
+
+</details>
+
+<details>
+<summary><b>Веб-камера</b></summary>
+<br>
+
+<img src="assets/screenshots/settings-webcam.webp" width="640" alt="Настройки SeamDroid: камера телефона как веб-камера">
+
+</details>
+
+<details>
+<summary><b>Подписка</b></summary>
+<br>
+
+<img src="assets/screenshots/settings-subscription.webp" width="640" alt="Настройки SeamDroid: активная подписка">
+
+</details>
+
 ## Два режима, переключать не нужно
 
 Компьютер смотрит, какие каналы до телефона сейчас живы, и включает то, что доступно.

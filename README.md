@@ -102,6 +102,58 @@ The phone rings at full volume for 30 seconds, even on silent, until you tap "Fo
 
 </details>
 
+## Screenshots
+
+Settings window on Linux, in the Russian interface; the app also speaks English.
+
+<details open>
+<summary><b>Phones</b></summary>
+<br>
+
+<img src="assets/screenshots/settings-phones.webp" width="640" alt="SeamDroid settings: the phones list with the full mode switch">
+
+</details>
+
+<details>
+<summary><b>Notifications</b></summary>
+<br>
+
+<img src="assets/screenshots/settings-notifications.webp" width="640" alt="SeamDroid settings: apps whose notifications are shown on the computer">
+
+</details>
+
+<details>
+<summary><b>Video</b></summary>
+<br>
+
+<img src="assets/screenshots/settings-video.webp" width="640" alt="SeamDroid settings: video size, bitrate and frame rate">
+
+</details>
+
+<details>
+<summary><b>Calls</b></summary>
+<br>
+
+<img src="assets/screenshots/settings-calls.webp" width="640" alt="SeamDroid settings: connecting the phone over Bluetooth for calls">
+
+</details>
+
+<details>
+<summary><b>Webcam</b></summary>
+<br>
+
+<img src="assets/screenshots/settings-webcam.webp" width="640" alt="SeamDroid settings: the phone's camera as a webcam">
+
+</details>
+
+<details>
+<summary><b>Subscription</b></summary>
+<br>
+
+<img src="assets/screenshots/settings-subscription.webp" width="640" alt="SeamDroid settings: an active subscription">
+
+</details>
+
 ## Two modes, no switching
 
 The computer checks which connections to the phone are alive and turns on what is available.
